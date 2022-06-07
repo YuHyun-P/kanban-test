@@ -1,0 +1,12 @@
+name: Bug Report
+description: Report a bug
+title: "bug: TITLE"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 상세 설명
+      description: 버그에 대해서 자세하게 적어주세요.
+    validations:
+      required: true
