@@ -3,6 +3,7 @@ import "./App.css";
 
 function App() {
   const main = 1;
+  const pullRebaseTest = 1;
   return (
     <div className="App">
       <header className="App-header">
